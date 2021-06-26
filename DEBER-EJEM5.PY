@@ -34,5 +34,5 @@ class Tarea :
         
         
 eje= Tarea()
-Tarea.calculosueldo()
+eje.calculosueldo()
         
